@@ -1,6 +1,7 @@
 {
-  "name": "vue-countdown",
+  "name": "vue-countdown-allen",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://github.com/ccwq/vue-countdown-allen",
   "license": "MIT"
 }
